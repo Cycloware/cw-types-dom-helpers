@@ -1,0 +1,28 @@
+{
+   "name": "@cw-types/dom-helpers",
+   "version": "3.0.0",
+   "author": "Kavan J. Shaban (Cycloware, LLC)",
+   "description": "Type definitions for `dom-helpers` `3.0.0`",
+   "homepage": "https://github.com/Cycloware/cw-types-dom-helpers",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Cycloware/cw-types-dom-helpers.git"
+   },
+   "contributors": [
+      {
+         "name": "Kavan Shaban",
+         "url": "https://github.com/kavanshaban"
+      },
+      {
+         "name": "Cycloware",
+         "url": "https://github.com/cycloware"
+      }
+   ],
+   "main": "",
+   "scripts": {},
+   "keywords": [
+      "@types",
+      "dom-helpers",
+      "typescript"
+   ]
+}
